@@ -1,0 +1,10 @@
+C:\Users\yigit\source\repos\Araba Yarışı\Araba Yarışı\bin\Debug\Araba Yarışı.exe.config
+C:\Users\yigit\source\repos\Araba Yarışı\Araba Yarışı\bin\Debug\Araba Yarışı.exe
+C:\Users\yigit\source\repos\Araba Yarışı\Araba Yarışı\bin\Debug\Araba Yarışı.pdb
+C:\Users\yigit\source\repos\Araba Yarışı\Araba Yarışı\obj\Debug\Araba Yarışı.csprojAssemblyReference.cache
+C:\Users\yigit\source\repos\Araba Yarışı\Araba Yarışı\obj\Debug\Araba_Yarışı.Form1.resources
+C:\Users\yigit\source\repos\Araba Yarışı\Araba Yarışı\obj\Debug\Araba_Yarışı.Properties.Resources.resources
+C:\Users\yigit\source\repos\Araba Yarışı\Araba Yarışı\obj\Debug\Araba Yarışı.csproj.GenerateResource.cache
+C:\Users\yigit\source\repos\Araba Yarışı\Araba Yarışı\obj\Debug\Araba Yarışı.csproj.CoreCompileInputs.cache
+C:\Users\yigit\source\repos\Araba Yarışı\Araba Yarışı\obj\Debug\Araba Yarışı.exe
+C:\Users\yigit\source\repos\Araba Yarışı\Araba Yarışı\obj\Debug\Araba Yarışı.pdb
